@@ -1,0 +1,16 @@
+paquetes necesario para iniciar el proyecto
+
+pip install django
+pip install Pillow
+pip install cx_oracle
+pip install django-widget-tweaks
+
+
+use un ambiente virtual pipenv, el usuario admin es 
+
+user: francojof
+pass : francojof
+
+se uso la misma maqueta del formulario de las entregas pasadas pero modificada para la entrega 4 del ET donde no se implementa aun la pass debido a que no era necesaria en esta etapa.
+
+el path para ejectutar el runserver es "Entrega 4 Franco Jofre Progra web\Experiencia4_FrancoJofre\webpersonal" 
